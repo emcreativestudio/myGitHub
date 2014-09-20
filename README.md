@@ -1,4 +1,4 @@
 myGitHub
 ========
 
-My first GitHub
+My first GitHub Repository
